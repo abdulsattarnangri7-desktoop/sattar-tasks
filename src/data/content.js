@@ -15,7 +15,7 @@ export const site = {
     badge: "🚀 New: smart task suggestions",
     title: "Plan your work.",
     highlight: "Ship faster.",
-    text: "LaunchKit helps small teams plan projects, track tasks and hit deadlines, all in one simple dashboard.",
+    text: "Sattar Tasks helps small teams plan projects, track tasks and hit deadlines, all in one simple dashboard.",
     primaryBtn: "Start free trial",
     secondaryBtn: "See features",
     note: "No credit card required · 14-day free trial",
@@ -87,7 +87,7 @@ export const site = {
     {
       name: "Sara Khan",
       role: "Product Manager, Orbitly",
-      text: "We moved our whole team to LaunchKit in one day. Our weekly meetings are now 15 minutes instead of an hour.",
+      text: "We moved our whole team to Sattar Tasks in one day. Our weekly meetings are now 15 minutes instead of an hour.",
       initials: "SK",
     },
     {
@@ -118,7 +118,7 @@ export const site = {
 
   cta: {
     title: "Ready to launch your next project?",
-    text: "Join 2,000+ teams who plan smarter with LaunchKit.",
+    text: "Join 2,000+ teams who plan smarter with Sattar Tasks.",
     button: "Start your free trial",
   },
 
