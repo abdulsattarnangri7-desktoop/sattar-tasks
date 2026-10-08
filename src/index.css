@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Dark mode with a "dark" class (for our 🌙 button) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
